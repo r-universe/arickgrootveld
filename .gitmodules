@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ZooID"]
 	path = ZooID
-	url = https://github.com/cran/ZooID
+	url = https://github.com/arickgrootveld/zooid_rpackage
